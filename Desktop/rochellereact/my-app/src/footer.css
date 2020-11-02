@@ -1,0 +1,31 @@
+.main-footer {
+    color: grey;
+    background-color: aqua;
+    padding-top: 3cm;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+/*footer stuff*/
+.page-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .content-wrap {
+    flex:1;
+  }
+  
+  
+  .footer{
+    background-color:aqua;
+    width: 100%;
+    margin: 0px;
+    height: 300px;
+    text-align: center;
+  }
+  
+  
